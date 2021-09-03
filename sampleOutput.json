@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Apple announces new settlement with Japan allowing developers to link to external websites",
+            "description": "Apple has made a settlement with Japanese regulator that it will allow developers of “reader” apps link to their own website for managing users account. The change goes to effect in early 2022. This settlement comes after the Japan Fair Trade Commission (JFTC…",
+            "url": "http://techcrunch.com/2021/09/01/apple-announced-new-settlement-with-japan-allowing-developers-to-link-to-external-website/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/0639e4eb324544a0a52ad480bf11e3da1.jpg?w=600",
+            "publishedAt": "2021-09-02T02:00:19Z",
+            "content": "Apple has made a settlement with Japanese regulator that it will allow developers of reader apps link to their own website for managing users account. The change goes to effect in early 2022.\r\nThis s… [+1570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Kellen Browning",
+            "title": "Apple Plans Another Tweak to Its Strict App Store Rules",
+            "description": "The change, which affects apps like Spotify and Netflix, will allow developers to steer users to their websites rather than the App Store.",
+            "url": "https://www.nytimes.com/2021/09/01/technology/apple-app-store-spotify.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/01/business/01apple/01apple-facebookJumbo.jpg",
+            "publishedAt": "2021-09-02T02:24:22Z",
+            "content": "Apple said on Wednesday that it was adjusting its App Store policies to allow certain kinds of applications to do business more directly with their customers.\r\nUnder the change, so-called reader apps… [+842 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Apple says Japan Fair Trade Commission closes App Store investigation - Reuters",
+            "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a><a href=\"https://apple.co/3kITzks\" target=\"_blank\">said</a> late on Wednesday that an update was coming to the App Store, which closed an investigation by the Japan Fair …",
+            "url": "https://www.reuters.com/technology/apple-says-japan-fair-trade-commission-closes-app-store-investigation-2021-09-02/",
+            "urlToImage": "https://www.reuters.com/resizer/1H7Us0NgnQhq872O-kEea6DQ1dA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3DFBHZFFRKR3NN7WL4WKHMZUE.jpg",
+            "publishedAt": "2021-09-02T00:14:00Z",
+            "content": "An Apple logo hangs above the entrance to the Apple store on 5th Avenue in the Manhattan borough of New York City, July 21, 2015. REUTERS/Mike Segar/File PhotoSept 1 (Reuters) - Apple Inc (AAPL.O)sai… [+564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Letting 'Reader' Apps Offer Links for Account Sign Ups Outside of the App Store to Close Japan Investigation",
+            "description": "Apple today announced that the Japan Fair Trade Commission (JFTC) has agreed to close its App Store investigation in exchange for changes to how \"reader\" apps like Netflix operate. Reader apps allow users to browse previously purchased content or content subs…",
+            "url": "https://www.macrumors.com/2021/09/01/apple-reader-app-changes-japan-ftc/",
+            "urlToImage": "https://images.macrumors.com/t/3IdiZzCIZkRZeyEO8xB9edij6Zs=/1600x/https://images.macrumors.com/article-new/2020/12/app-store-blue-banner.jpg",
+            "publishedAt": "2021-09-02T00:09:37Z",
+            "content": "Apple today announced that the Japan Fair Trade Commission (JFTC) has agreed to close its App Store investigation in exchange for changes to how \"reader\" apps like Netflix operate. Reader apps allow … [+2111 chars]"
+        }
+    ]
+}
